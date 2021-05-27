@@ -17,4 +17,4 @@ A data structure used for range queries. It uses Balanced binary search tree for
 
 ## Presenation
 
-For detailed insight on our implemention, refer to our video presentation https://www.youtube.com/watch?v=CbNOre1wUho&t=2s
+For detailed insight on our implemention, refer to our video presentation : https://www.youtube.com/watch?v=CbNOre1wUho&t=2s
